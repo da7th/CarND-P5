@@ -17,4 +17,4 @@ Please find the code and samples all within the Python notebook file: (CarND-P5.
 
 The link to the latest video is:
 
-https://youtu.be/GKJsvjiRWX4
+https://youtu.be/QrMnXIpXMjc
